@@ -1,0 +1,7 @@
+database.user=grupo6
+database.pass=grupo6
+database.name=grupo6
+database.host=localhost
+database.port=3306
+hibernate.hbm2ddl.auto=create
+workspace=C:/Users/Elizabeth/Documents/workspaceCPTN/Ratatoullie/

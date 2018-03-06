@@ -1,0 +1,62 @@
+
+#imagePreview:hover, #imageEditPreview:hover, #imagePreviewMenu:hover{
+    cursor: pointer;
+}
+#imagePreview,#imagePreviewMenu{
+    width: 300px;
+    height: 300px;
+    border-radius: 45px;
+    margin-left: 25px;
+    border: 8px dashed rgb(60, 119, 172);
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+}
+
+form > div.row{
+    margin: 0px;
+}
+
+#newRestForm > div.row:first-child > div > div.form-group{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 35px;
+}
+#newRestContainer{
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 0px;
+}
+#newRestContainer div.panel{
+    padding: 0px;
+    margin: 0px;
+}
+
+#newRestContainer div.panel{
+    border-radius: 20px;
+    border: 0px;
+}
+#imageEditPreview img{
+    height: 286px;
+    width: 286px;
+    border-radius: 30px;
+}
+#imageEditPreview{
+    width: 300px;
+    height: 300px;
+    border-radius: 45px;
+    margin-left: 20%;
+    margin-bottom: 50px;
+    border: 8px dashed rgb(60, 119, 172);
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    padding: 0px;
+}
+#mapEditRestaurant,#mapRegistRestaurant{
+	height: 350px;
+	width: 400px;
+}

@@ -1,0 +1,162 @@
+.h1 {
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+
+.search-btn {
+	width: 100%;
+	height: 40px;
+	margin-left: 0;
+	border-radius: 50px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: #32bca5;
+    border-color: #32bca5;
+    font-size: 18px;
+}
+
+.hld-btn {
+	padding-left: 0;
+}
+
+.picker {
+	height: 40px;
+	margin: 0 auto;
+    border-radius: 50px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    box-sizing: border-box;  
+}
+
+.hld-picker {
+	padding-right: 0;
+}
+
+.btm-space {
+	margin: 0;
+}
+
+.logo {
+	padding: 10px;
+}
+
+.homepage {
+    background-image: url('../imgs/resto4.jpg');
+    background-position: 50% 0%;
+    width: 100%;
+    position: relative;
+    min-height: 320px;
+    padding: 50px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.btn-success {
+	background-color: #32bca5;
+}
+
+#rest-panel {
+	background-color: #32bca5 !important;
+	margin-bottom: 0px;
+}
+
+.items {
+	margin: 10px;
+}
+
+.page-header {
+	margin-top: 0px;
+}
+
+.panel-heading {
+	background-color: white !important;
+}
+
+.rowRest {
+	padding: 10px 0px;
+	border-bottom: 0.1px solid silver;
+}
+
+#map,#mapShowRestaurant {
+	height: 280px;
+	width: 100%;
+}
+
+.res-pnl{
+	border-top: none !important;
+	border-right: none !important;
+	border-left: none !important;
+	box-shadow: none;
+}
+
+.pnl {
+	border: none;
+	box-shadow: none;
+	border-radius: 0;
+}
+
+.title {
+	font-weight: bold;
+	color: silver;
+	margin-bottom: 0px;
+}
+
+.cmmt-pnl {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	max-height: 280px;
+}
+
+.bar {
+	color: silver;
+	padding-top: 10px;
+	border-bottom: 0.1px solid silver;
+}
+
+#lst-ttl {
+	color: silver;
+}
+
+.mn-pnl {
+	border: none;
+	box-shadow: none;
+}
+
+.cnt-fld {
+	margin: 0px 50px;
+}
+
+.title + h5 {
+	margin-bottom: 20px;
+}
+
+h5 > .glyphicon {
+	color: #32bca5;
+}
+
+.idate {
+	padding-left: 30px;
+	padding-right: 50px;
+}
+
+.slide {
+	width: 700px;
+}
+
+.pnl-bdy {
+	padding: 8px;
+}
+
+.md-by {
+	margin-bottom: 10px;
+}
+
+.cmt-cntr {
+	border-right: 0.1px solid silver;
+	border-left: 0.1px solid silver;
+}

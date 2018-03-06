@@ -1,0 +1,85 @@
+
+#restaurantsContainer > div:first-child{
+    padding: 0px;
+    padding-top: 1%;
+}
+
+div.panel-footer{
+    color: white; 
+    height: 45px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+div.panel-footer{
+    background-color:#32bca5;
+    font-family: "Lato",sans-serif;
+    font-size: 18px;
+}
+
+#restaurantsContainer div.thumbnail p {
+    color: #999;
+}
+#restaurantsContainer div.thumbnail div.restaurantTitulo{
+    padding: 2px;
+}
+
+ *#restaurantsContainer div.thumbnail .restaurantTitulo h4 {
+    color: black;
+    margin-top: 10px;
+}
+
+ #restaurantsContainer div.thumbnail img, #restaurantsContainer div.thumbnail, #restaurantsContainer div.panel{
+    border-top-left-radius:  14px;
+    border-top-right-radius:  14px;
+}
+#restaurantsContainer .pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover{
+    border-color: yellowgreen;
+    background-color: yellowgreen;
+}
+#restaurantsContainer div.thumbnail div.restaurantDetalle div.restDetalleVer a{
+    margin: 5%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+/*    background-color: rgb(150,172,60);
+    border-color: rgb(150,172,60);*/
+    background-color:#32bca5;
+    border-color:#32bca5;
+}
+#restaurantsContainer p.contenedorCalificaciones span, #restaurantsContainer p.contenedorFecha span{
+    color: #f17200;
+   /* color: #1e7db7;*/
+}
+
+#restaurantsContainer div.thumbnail h4{
+    margin-bottom: 2px;
+}
+#restaurantsContainer div.thumbnail div.restaurantDetalle > div{
+    padding: 0px;
+}
+#restaurantsContainer div.thumbnail div.restaurantDetalle > div:last-child{
+    border-bottom: 1px solid #ccc;
+}
+#restaurantsContainer .thumbnail, #restaurantsContainer .panel-default{
+    border: none;
+    background: none;
+    box-shadow: none;
+}
+
+#restaurantsContainer .panel-body{
+    padding: 0px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+#restaurantsContainer .thumbnail img{
+    background-color: rgb(240,251,253);
+}
+#restaurantsContainer .thumbnail{
+    padding: 0px;
+    margin: 0px;
+}
+#restaurantsContainer .thumbnail .caption{
+    background:  rgba(0, 0, 0, 0) linear-gradient(to top, rgb(255,255,255), #d3ece8) repeat scroll 0 0;
+    border: none;
+}

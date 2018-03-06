@@ -1,0 +1,34 @@
+
+#imagePreview:hover, #imagePreviewMenu:hover{
+    cursor: pointer;
+}
+#imagePreview,#imagePreviewMenu{
+    width: 310px;
+	height: 255px;
+    border-radius: 45px;
+    margin-left: 25px;
+    border: 8px dashed rgb(60, 119, 172);
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+}
+
+form > div.row{
+    margin: 0px;
+}
+
+#restaurant > div.form-group{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+#newResponsibleForm > div.row:first-child > div > div.form-group{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 35px;
+}
+#mapResponsible,#mapRestaurant,#mapUser{
+	height: 350px;
+	width: 500px;
+}
