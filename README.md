@@ -4,7 +4,7 @@ Administracion de Restaurantes, Historial de Menús y Usuarios.
 
 Este proyecto fue realizado por Elizabeth Minchaca, Natanael Nufrio y Adnan Ferrer durante la capacitación inicial del LIFIA.
 
-Desarrollado en leguaje Java.
+Desarrollado en lenguaje Java.
 
 ## 1 Implementacion del Sistema
 ### 1.1 Requerimientos de hardware
