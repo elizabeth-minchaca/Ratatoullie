@@ -15,7 +15,6 @@ Contar con:
 ### 1.2 Requerimientos de software
 Contar con:
 
-* Sistema Operativo Windows.
 * Navegador (Chrome, Mozilla Firefox, Opera u otro)
 * Servidor mysql
 * version 15.1 Distrib 10.1.9-MariaDB o ultima version de
