@@ -20,7 +20,7 @@ Contar con:
 * Servidor mysql
 * version 15.1 Distrib 10.1.9-MariaDB o ultima version de
 * xamp(https://www.apachefriends.org/es/download.html)
-* Eclipse para Java EE, el cual debe contar con los plugins para maven y SVN,también se le debe agregar un servidor tomcat 8 o superior.
+* Eclipse para Java EE, el cual debe contar con los plugins para maven y GIT,también se le debe agregar un servidor tomcat 8 o superior.
 * JAVA 8 o superior.
 
 ## 2 Instalacion del servidor
